@@ -1,0 +1,9 @@
+{
+"products" : [
+  {"id":1,"nama":"Jerald","stambuk":1,"kelas":"Florida"},
+  {"id":2,"nama":"Jeth","stambuk":2,"kelas":"California"},
+  {"id":3,"nama":"Raynor","stambuk":3,"kelas":"Minnesota"},
+  {"id":4,"nama":"Adriaens","stambuk":4,"kelas":"Ohio"},
+  {"id":5,"nama":"Jacquelyn","stambuk":5,"kelas":"Florida"}
+]
+}
