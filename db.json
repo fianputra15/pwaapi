@@ -1,9 +1,9 @@
 {
 "products" : [
-  {"id":1,"nama":"fian","stambuk":0103,"kelas":"A1"},
-  {"id":2,"nama":"rian","stambuk":0102,"kelas":"A2"},
-  {"id":3,"nama":"syawal","stambuk":0104,"kelas":"A3"},
-  {"id":4,"nama":"sita","stambuk":0105,"kelas":"B3"},
-  {"id":5,"nama":"mashita","stambuk":0106,"kelas":"B4"}
+  {"id":1,"nama":"fian","stambuk":103,"kelas":"A1"},
+  {"id":2,"nama":"rian","stambuk":102,"kelas":"A2"},
+  {"id":3,"nama":"syawal","stambuk":104,"kelas":"A3"},
+  {"id":4,"nama":"sita","stambuk":105,"kelas":"B3"},
+  {"id":5,"nama":"mashita","stambuk":106,"kelas":"B4"}
 ]
 }
