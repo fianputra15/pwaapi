@@ -1,9 +1,9 @@
 {
 "products" : [
-  {"id":1,"nama":"Jerald","stambuk":1,"kelas":"Florida"},
-  {"id":2,"nama":"Jeth","stambuk":2,"kelas":"California"},
-  {"id":3,"nama":"Raynor","stambuk":3,"kelas":"Minnesota"},
-  {"id":4,"nama":"Adriaens","stambuk":4,"kelas":"Ohio"},
-  {"id":5,"nama":"Jacquelyn","stambuk":5,"kelas":"Florida"}
+  {"id":1,"nama":"fian","stambuk":0103,"kelas":"A1"},
+  {"id":2,"nama":"rian","stambuk":0102,"kelas":"A2"},
+  {"id":3,"nama":"syawal","stambuk":0104,"kelas":"A3"},
+  {"id":4,"nama":"sita","stambuk":0105,"kelas":"B3"},
+  {"id":5,"nama":"mashita","stambuk":0106,"kelas":"B4"}
 ]
 }
